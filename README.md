@@ -1,2 +1,2 @@
 # theCuriousMonk.github.io
-My Personal Hosted FrontEnd WebDesigns
+My Personal Website
