@@ -19,6 +19,11 @@ body a {
 a:hover{
  text-decoration:none;
 }
+
+.is-white .is-white:active .is-white:hover .is-white:visited {
+	color: white;	
+}
+
 input[type="button"],input[type="submit"]{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
