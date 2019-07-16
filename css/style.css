@@ -20,7 +20,7 @@ a:hover{
  text-decoration:none;
 }
 
-.is-white .is-white:active .is-white:hover .is-white:visited {
+a a:active a:hover a:visited {
 	color: #ffffff !important;	
 }
 
