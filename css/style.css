@@ -21,7 +21,7 @@ a:hover{
 }
 
 .is-white .is-white:active .is-white:hover .is-white:visited {
-	color: white;	
+	color: #ffffff !important;	
 }
 
 input[type="button"],input[type="submit"]{
